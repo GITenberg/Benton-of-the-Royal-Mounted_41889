@@ -1,0 +1,27 @@
+_repo: Benton-of-the-Royal-Mounted_41889
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41889-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kendall, Ralph S. (Ralph Selwood)
+    alias: Kendall, Ralph Selwood
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '6383'
+    url: http://www.gutenberg.org/2009/agents/6383
+description: Novel set in southern Alberta.
+gutenberg_issued: '2013-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcc 'PS'
+title: 'Benton of the Royal Mounted: A Tale of the Royal Northwest Mounted Police'
+url: http://www.gutenberg.org/ebooks/41889
