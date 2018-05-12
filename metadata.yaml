@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6383'
     url: http://www.gutenberg.org/2009/agents/6383
 description: Novel set in southern Alberta.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41889#Benton-of-the-Royal-Mounted
 gutenberg_issued: '2013-01-20'
 gutenberg_type: Text
 identifiers:
